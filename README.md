@@ -1,7 +1,3 @@
-**bem vindo ao meu perfil 😎**
+me chamo luiz, gosto muito de programação!!
 
-- meu nome é felipe
-
-- estou estudando na [Alura](https://www.alura.com.br)
-- estou me desenvolvendo nas linguagens de programação
   
